@@ -12,7 +12,7 @@ instagem :itsmeabjs
 
 3. launch jupyter notebook
 
-Vist : https://youtu.be/9l0DAYyJJhI
+Visit : https://youtu.be/9l0DAYyJJhI
 
 Below are the topics covered in this Data Science for Beginners Course video:
 
