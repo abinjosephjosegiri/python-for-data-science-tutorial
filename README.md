@@ -1,1 +1,1 @@
-# MLM
+A chorus for mission learning for beginners
